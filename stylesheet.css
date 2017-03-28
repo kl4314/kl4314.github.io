@@ -1,0 +1,36 @@
+.header{
+    background-color:skyblue;
+    height: 20px;
+}
+
+.contents{
+    height: 600px;
+    background-color:blue;
+    padding-top: 10px;
+}
+
+.left{
+    background-color:pink;
+    width:33.3%;
+    height: 600px;
+    float: left;
+    
+}
+
+.center{
+    background-color:gold;
+    height: 600px;
+    width:33.3%;
+    float: left;
+}
+
+.right{
+    background-color:green;
+    height: 600px;
+    width:33.3%;
+    float: left;
+}
+.wrappers{
+    width: 100%;
+    margin:0 auto;
+}
